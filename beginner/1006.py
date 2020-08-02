@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 
-A = int(input())
-B = int(input())
-C = int(input())
-D = int(input())
-DIFERENCA = (A * B - C * D)
-print ("DIFERENCA = %d"%DIFERENCA)
+A = float(input())
+B = float(input())
+C = float(input())
+MEDIA = ( ( A * 2 ) + ( B * 3 ) + ( C * 5 ) ) / ( 2 + 3 + 5 )
+print ("MEDIA = %.5f"%MEDIA)
