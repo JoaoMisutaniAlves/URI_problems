@@ -21,5 +21,4 @@ banknote_2 = decompose/2
 decompose = decompose%2
 print ("%d nota(s) de R$ 2,00"%banknote_2)
 banknote_1 = decompose/1
-decompose = decompose%1
 print ("%d nota(s) de R$ 1,00"%banknote_1)
