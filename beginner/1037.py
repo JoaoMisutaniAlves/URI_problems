@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 value = float(input())
-
 if 0 > value or value > 100:
     print("Fora de intervalo")
 elif 0 <= value <=25:
